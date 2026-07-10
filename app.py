@@ -7,7 +7,6 @@ Run with:
     python app.py
 
 Then open the localhost URL shown in your terminal (usually http://localhost:7860).
-random
 """
 
 import gradio as gr
